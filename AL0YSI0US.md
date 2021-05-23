@@ -1,18 +1,20 @@
-<h1 align="left">✨Hello there wanderer, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">My name is Aloysious [aloe-wish-iss]✨ </h1>
+<h1 align="left">Hello there wanderer, . . .</h1>
+<h5 align="center">. . . my name is Aloysious :✨[aloe-wish-iss]✨</h5>
 
-```javascript
+
+```bash
 📚 In the present moment I’m studying Python @Codefellows. 
   
 
-   My Top Special Interests are: Equality, Equity, Accountability and Activism,
+   My Top Special Interests are: Equality, Equity, Accountability and Activism.
   
-          I have deep Desires to bring said Energy with me as I continue to Transition into the tech industry.
+         I have deep Desires to bring said Energy with me as I continue to Transition into the tech industry.
                             
-                                                           I served well over a Decade in the United States Armed Forces.
+                                          I served well over a Decade in the United States Armed Forces.
                                                               
-                                                           I'm stoked to leverage the Skills from my past...
+                                          I'm stoked to leverage the Skills from my past...
                                                                                
-                                                           to help Fuel my Vision for my Future.
+                                          to help Fuel my Vision for my Future.
 ````
 
 <table align="center"><tr><td>
@@ -32,33 +34,28 @@
 </pre> 
 </td></tr></table>
 
-<figure><embed src="https://wakatime.com/share/@96a2f4d4-834f-47cd-a8b3-a8acae05f335/946e2fac-6cf6-4830-828d-23a3c9bc6076.svg"></embed></figure>
-<section id="blackHistoryMonth">
-<p align="center"> 
-<h2 align="center">Remembering those who have fallen,<br> 
-and the inevitable to come<br>...<br>
-<br>I cry for my brothers and sisters,<br> 
-tears of love and tears of joy.<br>
-<br>#BlackLivesMatter</h2>
-<a href="https://caplanc.org"><img src="https://caplanc.org/wp-content/uploads/2021/02/BHM.jpg" /></a>
 
 ````python
-                                              I am celebrating us all.
+                                            I am celebrating us all.
 
-                                                          “We all have a sphere of influence. 
-            You were created for                                  Each of us needs to find our own sources of  
-                                                                  courage so that we can begin to speak. 
-                rare occasions                                    There are many problems to address, 
-                                                                  and we cannot avoid them indefinitely. 
-                change                                            We cannot continue to be silent. 
-                    disappear                                     We must begin to speak, 
-                                                                  knowing that words alone are insufficient. 
-               without regret.                                    But I have seen that meaningful dialogue 
-                                                                  can lead to effective action. 
--My Grandpa - aka Ronny Wayne Davies                              Change is possible.”
+                                                        “We all have a sphere of influence. 
+            You were created for                                Each of us needs to find our own sources of  
+                                                                courage so that we can begin to speak. 
+                rare occasions                                  There are many problems to address, 
+                                                                and we cannot avoid them indefinitely. 
+                change                                          We cannot continue to be silent. 
+                    disappear                                   We must begin to speak, 
+                                                                knowing that words alone are insufficient. 
+               without regret.                                  But I have seen that meaningful dialogue 
+                                                                can lead to effective action. 
+-My Grandpa - aka Ronny Wayne Davies                            Change is possible.”
 
-                                                                                                ― Beverly Daniel Tatum
+                                                                                          ― Beverly Daniel Tatum
 ````
+
+[![Aloysious's github activity graph](https://activity-graph.herokuapp.com/graph?username=AL0YSI0US&theme=redical)](https://github.com/AL0YSI0US/github-readme-activity-graph)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&layout=compact&theme=midnight-purple&card_width=960)](https://github.com/AL0YSI0US/github-readme-stats)
 
 ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
@@ -76,11 +73,14 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 ----
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000) 
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAL0YSI0US%2FAL0YSI0US&count_bg=%23FF0090&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000) 
 
+
+<p align="right">
+</p>
 <br><h3 align="right">Feel free to take a peek under the hood<br>🧐...There's no telling what you might find!</h3>
 
-💼[Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
+## 💼[Linkedin](https://www.linkedin.com/in/a-todd-charliemike/) | 💻 [CodePen io](https://codepen.io/al0ysi0us) | 📷 [Instagram](https://www.instagram.com/aloysiousx/?hl=en) | ✏️ [Medium](https://medium.com/@AL0YSIOUS)  
 
 
 
