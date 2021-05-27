@@ -6,7 +6,7 @@ If you Identify as Autistic (Self or Dr. Diagnosis) Please feel free to submit y
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-☝🏾 This will change when you refresh the page 🤣
+☝🏾 This will be different every time you come back and visit this page 🤣
   + [Customize your own here](https://github.com/ABSphreak/readme-jokes) 
 
 I envision this becoming a place where like minded souls can be inspired and/or influenced by or perhaps even connect with one another. 
